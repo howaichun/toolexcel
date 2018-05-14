@@ -1,0 +1,13 @@
+/node_modules/*
+.buildpath
+.DS_Store
+.project
+.settings
+/data/
+!/data/index.html
+!/data/runtime/index.html
+.idea
+/Apps/Runtime/*
+*.log
+/Apps/Common/Conf/*.conf
+okay-mall-backend.iml
